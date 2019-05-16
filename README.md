@@ -1,0 +1,2 @@
+# ionic_startup
+ionic
